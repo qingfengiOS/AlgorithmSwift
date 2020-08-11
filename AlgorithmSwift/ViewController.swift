@@ -22,7 +22,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         datas = [
             "BubbleSort",
             "SelectionSort",
-            "QuickSort"
+            "QuickSort",
+            "BinarySearch"
         ]
     }
 

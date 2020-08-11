@@ -19,6 +19,7 @@
 		812E179624E1270A003A0CE8 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812E179524E1270A003A0CE8 /* BaseViewController.swift */; };
 		812E179824E12781003A0CE8 /* SelectionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812E179724E12781003A0CE8 /* SelectionSort.swift */; };
 		8180573724E27C7F00FFD979 /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8180573624E27C7F00FFD979 /* QuickSort.swift */; };
+		8180573924E294A000FFD979 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8180573824E294A000FFD979 /* BinarySearch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		812E179524E1270A003A0CE8 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		812E179724E12781003A0CE8 /* SelectionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionSort.swift; sourceTree = "<group>"; };
 		8180573624E27C7F00FFD979 /* QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
+		8180573824E294A000FFD979 /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				810FF17F24DAC9C600E76872 /* BubbleSort.swift */,
 				812E179724E12781003A0CE8 /* SelectionSort.swift */,
 				8180573624E27C7F00FFD979 /* QuickSort.swift */,
+				8180573824E294A000FFD979 /* BinarySearch.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8180573924E294A000FFD979 /* BinarySearch.swift in Sources */,
 				812E179624E1270A003A0CE8 /* BaseViewController.swift in Sources */,
 				810FF15124DAC13100E76872 /* ViewController.swift in Sources */,
 				8180573724E27C7F00FFD979 /* QuickSort.swift in Sources */,
