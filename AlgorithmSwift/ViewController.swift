@@ -23,7 +23,10 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "BubbleSort",
             "SelectionSort",
             "QuickSort",
-            "BinarySearch"
+            "BinarySearch",
+            "toSum_1",
+            "intersect_350",
+            "longestCommonPrefix_14"
         ]
     }
 

@@ -15,6 +15,7 @@ class BinarySearch: BaseViewController {
 
         print(bSearch(array: [1, 3, 14, 33, 56, 77, 78, 99], value: 56) ?? "找不到")
         print(bSearch2(array: [1, 3, 14, 33, 33, 33, 78, 99], value: 33) ?? "找不到")
+        print(bSearch3(array: [1, 3, 14, 33, 33, 33, 78, 99], value: 33) ?? "找不到")
     }
 
     //常规二分查找
@@ -63,6 +64,27 @@ class BinarySearch: BaseViewController {
     // 我们重点看第 50~53 行代码。如果 mid 等于 0，那这个元素已经是数组的第一个元素，那它肯定是我们要找的；如果mid 不等于 0，但 a[mid]的前一个元素 a[mid-1]不等于 value，那也说明 a[mid]就是我们要找的第一个值等于给定值的元素。如果经过检查之后发现 a[mid]前面的一个元素 a[mid-1]也等于 value，那说明此时的 a[mid]肯定不是我们要查找的第一个值等于给定值的元素。那我们就更新 high=mid-1，因为要找的元素肯定出现在[low, mid-1]之间。
 
 
-
+    /*
+     变体二：寻找数组中最后一个等于目标数的下标
+    */
+    func bSearch3(array: [Int], value: Int) -> Int? {
+        var low = 0
+        var high = array.count - 1
+        while low <= high {
+            let middle = low + (high - low) >> 1
+            if value < array[middle] {
+                high = middle - 1
+            } else if value > array[middle] {
+                low = middle + 1
+            } else {
+                if middle == 0 || array[middle + 1] != value {
+                    return middle
+                } else {
+                    low = middle + 1
+                }
+            }
+        }
+        return nil
+    }
 }
 
