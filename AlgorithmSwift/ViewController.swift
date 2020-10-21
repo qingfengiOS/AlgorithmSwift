@@ -24,9 +24,11 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "SelectionSort",
             "QuickSort",
             "BinarySearch",
-            "toSum_1",
-            "intersect_350",
-            "longestCommonPrefix_14"
+            "ToSum_1",
+            "Intersect_350",
+            "LongestCommonPrefix_14",
+            "MaxProfit_121",
+            "MaxProfit_122_II"
         ]
     }
 

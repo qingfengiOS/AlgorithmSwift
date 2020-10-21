@@ -8,7 +8,7 @@
 
 import UIKit
 
-class intersect_350: BaseViewController {
+class Intersect_350: BaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 

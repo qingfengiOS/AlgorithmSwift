@@ -12,7 +12,7 @@ import UIKit
 
 
  */
-class longestCommonPrefix_14: BaseViewController {
+class LongestCommonPrefix_14: BaseViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
