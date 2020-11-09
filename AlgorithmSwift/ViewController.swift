@@ -28,7 +28,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "Intersect_350",
             "LongestCommonPrefix_14",
             "MaxProfit_121",
-            "MaxProfit_122_II"
+            "MaxProfit_122_II",
+            "RotateArray_189"
         ]
     }
 
