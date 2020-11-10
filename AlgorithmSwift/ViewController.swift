@@ -29,7 +29,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "LongestCommonPrefix_14",
             "MaxProfit_121",
             "MaxProfit_122_II",
-            "RotateArray_189"
+            "RotateArray_189",
+            "MaxLengthCharacters_1624"
         ]
     }
 
