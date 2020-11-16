@@ -25,6 +25,7 @@
 		81DC83A52520780C00EE0CBF /* Intersect_350.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81DC83A42520780C00EE0CBF /* Intersect_350.swift */; };
 		81DC83A72520789700EE0CBF /* ToSum_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81DC83A62520789700EE0CBF /* ToSum_1.swift */; };
 		81DC83A92520799000EE0CBF /* LongestCommonPrefix_14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81DC83A82520799000EE0CBF /* LongestCommonPrefix_14.swift */; };
+		FD1F7D052562BA1B00F40584 /* LeastNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD1F7D042562BA1B00F40584 /* LeastNumbers.swift */; };
 		FD4FD8982559838800365D57 /* RotateArray_189.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD4FD8972559838800365D57 /* RotateArray_189.swift */; };
 		FD82B1C3255AD65C005AB1C9 /* MaxLengthCharacters_1624.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD82B1C2255AD65C005AB1C9 /* MaxLengthCharacters_1624.swift */; };
 /* End PBXBuildFile section */
@@ -71,6 +72,7 @@
 		81DC83A42520780C00EE0CBF /* Intersect_350.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intersect_350.swift; sourceTree = "<group>"; };
 		81DC83A62520789700EE0CBF /* ToSum_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToSum_1.swift; sourceTree = "<group>"; };
 		81DC83A82520799000EE0CBF /* LongestCommonPrefix_14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix_14.swift; sourceTree = "<group>"; };
+		FD1F7D042562BA1B00F40584 /* LeastNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeastNumbers.swift; sourceTree = "<group>"; };
 		FD4FD8972559838800365D57 /* RotateArray_189.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateArray_189.swift; sourceTree = "<group>"; };
 		FD82B1C2255AD65C005AB1C9 /* MaxLengthCharacters_1624.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxLengthCharacters_1624.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -168,6 +170,7 @@
 				8164D4E225402104006ED328 /* MaxProfit_122_II.swift */,
 				FD4FD8972559838800365D57 /* RotateArray_189.swift */,
 				FD82B1C2255AD65C005AB1C9 /* MaxLengthCharacters_1624.swift */,
+				FD1F7D042562BA1B00F40584 /* LeastNumbers.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -235,7 +238,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1220;
 				ORGANIZATIONNAME = ios;
 				TargetAttributes = {
 					810FF14824DAC13100E76872 = {
@@ -305,6 +308,7 @@
 			files = (
 				8164D4E1253ECE8C006ED328 /* MaxProfit_121.swift in Sources */,
 				FD4FD8982559838800365D57 /* RotateArray_189.swift in Sources */,
+				FD1F7D052562BA1B00F40584 /* LeastNumbers.swift in Sources */,
 				8180573924E294A000FFD979 /* BinarySearch.swift in Sources */,
 				81DC83A92520799000EE0CBF /* LongestCommonPrefix_14.swift in Sources */,
 				812E179624E1270A003A0CE8 /* BaseViewController.swift in Sources */,
@@ -398,6 +402,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -458,6 +463,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -491,6 +497,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 729BYBTS3K;
 				INFOPLIST_FILE = AlgorithmSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -508,6 +515,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 729BYBTS3K;
 				INFOPLIST_FILE = AlgorithmSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
