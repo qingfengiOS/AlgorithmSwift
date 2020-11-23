@@ -32,7 +32,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "RotateArray_189",
             "MaxLengthCharacters_1624",
             "LeastNumbers",
-            "LengthOfLongestSubstring_03"
+            "LengthOfLongestSubstring_03",
+            "ReverseInt_07"
         ]
     }
 
