@@ -33,7 +33,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "MaxLengthCharacters_1624",
             "LeastNumbers",
             "LengthOfLongestSubstring_03",
-            "ReverseInt_07"
+            "ReverseInt_07",
+            "LongestPalindrome_05"
         ]
     }
 

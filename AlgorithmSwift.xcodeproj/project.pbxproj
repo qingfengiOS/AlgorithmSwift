@@ -30,6 +30,7 @@
 		FD82B1C3255AD65C005AB1C9 /* MaxLengthCharacters_1624.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD82B1C2255AD65C005AB1C9 /* MaxLengthCharacters_1624.swift */; };
 		FDA65E2E2566B41D00644E95 /* LengthOfLongestSubstring_03.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E2D2566B41D00644E95 /* LengthOfLongestSubstring_03.swift */; };
 		FDA65E33256BEDD400644E95 /* ReverseInt_07.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E32256BEDD400644E95 /* ReverseInt_07.swift */; };
+		FDA65E38256EA02D00644E95 /* LongestPalindrome_05.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E37256EA02D00644E95 /* LongestPalindrome_05.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +80,7 @@
 		FD82B1C2255AD65C005AB1C9 /* MaxLengthCharacters_1624.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxLengthCharacters_1624.swift; sourceTree = "<group>"; };
 		FDA65E2D2566B41D00644E95 /* LengthOfLongestSubstring_03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLongestSubstring_03.swift; sourceTree = "<group>"; };
 		FDA65E32256BEDD400644E95 /* ReverseInt_07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInt_07.swift; sourceTree = "<group>"; };
+		FDA65E37256EA02D00644E95 /* LongestPalindrome_05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome_05.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +179,7 @@
 				FD1F7D042562BA1B00F40584 /* LeastNumbers.swift */,
 				FDA65E2D2566B41D00644E95 /* LengthOfLongestSubstring_03.swift */,
 				FDA65E32256BEDD400644E95 /* ReverseInt_07.swift */,
+				FDA65E37256EA02D00644E95 /* LongestPalindrome_05.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -312,6 +315,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDA65E38256EA02D00644E95 /* LongestPalindrome_05.swift in Sources */,
 				8164D4E1253ECE8C006ED328 /* MaxProfit_121.swift in Sources */,
 				FDA65E33256BEDD400644E95 /* ReverseInt_07.swift in Sources */,
 				FD4FD8982559838800365D57 /* RotateArray_189.swift in Sources */,
