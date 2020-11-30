@@ -31,6 +31,7 @@
 		FDA65E2E2566B41D00644E95 /* LengthOfLongestSubstring_03.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E2D2566B41D00644E95 /* LengthOfLongestSubstring_03.swift */; };
 		FDA65E33256BEDD400644E95 /* ReverseInt_07.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E32256BEDD400644E95 /* ReverseInt_07.swift */; };
 		FDA65E38256EA02D00644E95 /* LongestPalindrome_05.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E37256EA02D00644E95 /* LongestPalindrome_05.swift */; };
+		FDA65E40257534A200644E95 /* RemoveDuplicates_26.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E3F257534A200644E95 /* RemoveDuplicates_26.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,7 @@
 		FDA65E2D2566B41D00644E95 /* LengthOfLongestSubstring_03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLongestSubstring_03.swift; sourceTree = "<group>"; };
 		FDA65E32256BEDD400644E95 /* ReverseInt_07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInt_07.swift; sourceTree = "<group>"; };
 		FDA65E37256EA02D00644E95 /* LongestPalindrome_05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome_05.swift; sourceTree = "<group>"; };
+		FDA65E3F257534A200644E95 /* RemoveDuplicates_26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicates_26.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +182,7 @@
 				FDA65E2D2566B41D00644E95 /* LengthOfLongestSubstring_03.swift */,
 				FDA65E32256BEDD400644E95 /* ReverseInt_07.swift */,
 				FDA65E37256EA02D00644E95 /* LongestPalindrome_05.swift */,
+				FDA65E3F257534A200644E95 /* RemoveDuplicates_26.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -318,6 +321,7 @@
 				FDA65E38256EA02D00644E95 /* LongestPalindrome_05.swift in Sources */,
 				8164D4E1253ECE8C006ED328 /* MaxProfit_121.swift in Sources */,
 				FDA65E33256BEDD400644E95 /* ReverseInt_07.swift in Sources */,
+				FDA65E40257534A200644E95 /* RemoveDuplicates_26.swift in Sources */,
 				FD4FD8982559838800365D57 /* RotateArray_189.swift in Sources */,
 				FD1F7D052562BA1B00F40584 /* LeastNumbers.swift in Sources */,
 				8180573924E294A000FFD979 /* BinarySearch.swift in Sources */,
