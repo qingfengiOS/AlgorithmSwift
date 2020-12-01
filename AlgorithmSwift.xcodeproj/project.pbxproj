@@ -32,6 +32,7 @@
 		FDA65E33256BEDD400644E95 /* ReverseInt_07.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E32256BEDD400644E95 /* ReverseInt_07.swift */; };
 		FDA65E38256EA02D00644E95 /* LongestPalindrome_05.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E37256EA02D00644E95 /* LongestPalindrome_05.swift */; };
 		FDA65E40257534A200644E95 /* RemoveDuplicates_26.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E3F257534A200644E95 /* RemoveDuplicates_26.swift */; };
+		FDA65E452576821A00644E95 /* RomanToInt_13.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E442576821A00644E95 /* RomanToInt_13.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +84,7 @@
 		FDA65E32256BEDD400644E95 /* ReverseInt_07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInt_07.swift; sourceTree = "<group>"; };
 		FDA65E37256EA02D00644E95 /* LongestPalindrome_05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome_05.swift; sourceTree = "<group>"; };
 		FDA65E3F257534A200644E95 /* RemoveDuplicates_26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicates_26.swift; sourceTree = "<group>"; };
+		FDA65E442576821A00644E95 /* RomanToInt_13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInt_13.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +185,7 @@
 				FDA65E32256BEDD400644E95 /* ReverseInt_07.swift */,
 				FDA65E37256EA02D00644E95 /* LongestPalindrome_05.swift */,
 				FDA65E3F257534A200644E95 /* RemoveDuplicates_26.swift */,
+				FDA65E442576821A00644E95 /* RomanToInt_13.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -325,6 +328,7 @@
 				FD4FD8982559838800365D57 /* RotateArray_189.swift in Sources */,
 				FD1F7D052562BA1B00F40584 /* LeastNumbers.swift in Sources */,
 				8180573924E294A000FFD979 /* BinarySearch.swift in Sources */,
+				FDA65E452576821A00644E95 /* RomanToInt_13.swift in Sources */,
 				81DC83A92520799000EE0CBF /* LongestCommonPrefix_14.swift in Sources */,
 				812E179624E1270A003A0CE8 /* BaseViewController.swift in Sources */,
 				FD82B1C3255AD65C005AB1C9 /* MaxLengthCharacters_1624.swift in Sources */,

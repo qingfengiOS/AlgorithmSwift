@@ -35,7 +35,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "LengthOfLongestSubstring_03",
             "ReverseInt_07",
             "LongestPalindrome_05",
-            "RemoveDuplicates_26"
+            "RemoveDuplicates_26",
+            "RomanToInt_13"
         ]
     }
 
