@@ -37,7 +37,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "LongestPalindrome_05",
             "RemoveDuplicates_26",
             "RomanToInt_13",
-            "RemoveElement_27"
+            "RemoveElement_27",
+            "ValideBrackets_20"
         ]
     }
 

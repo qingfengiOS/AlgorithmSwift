@@ -34,6 +34,7 @@
 		FDA65E40257534A200644E95 /* RemoveDuplicates_26.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E3F257534A200644E95 /* RemoveDuplicates_26.swift */; };
 		FDA65E452576821A00644E95 /* RomanToInt_13.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E442576821A00644E95 /* RomanToInt_13.swift */; };
 		FDA65E4A2579212000644E95 /* RemoveElement_27.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E492579212000644E95 /* RemoveElement_27.swift */; };
+		FDA65E4F257FB33800644E95 /* ValideBrackets_20.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA65E4E257FB33800644E95 /* ValideBrackets_20.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +88,7 @@
 		FDA65E3F257534A200644E95 /* RemoveDuplicates_26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicates_26.swift; sourceTree = "<group>"; };
 		FDA65E442576821A00644E95 /* RomanToInt_13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInt_13.swift; sourceTree = "<group>"; };
 		FDA65E492579212000644E95 /* RemoveElement_27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElement_27.swift; sourceTree = "<group>"; };
+		FDA65E4E257FB33800644E95 /* ValideBrackets_20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValideBrackets_20.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +191,7 @@
 				FDA65E3F257534A200644E95 /* RemoveDuplicates_26.swift */,
 				FDA65E442576821A00644E95 /* RomanToInt_13.swift */,
 				FDA65E492579212000644E95 /* RemoveElement_27.swift */,
+				FDA65E4E257FB33800644E95 /* ValideBrackets_20.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 				810FF18024DAC9C600E76872 /* BubbleSort.swift in Sources */,
 				8164D4E325402104006ED328 /* MaxProfit_122_II.swift in Sources */,
 				812E179824E12781003A0CE8 /* SelectionSort.swift in Sources */,
+				FDA65E4F257FB33800644E95 /* ValideBrackets_20.swift in Sources */,
 				810FF14F24DAC13100E76872 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
