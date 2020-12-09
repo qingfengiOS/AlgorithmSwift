@@ -38,7 +38,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "RemoveDuplicates_26",
             "RomanToInt_13",
             "RemoveElement_27",
-            "ValideBrackets_20"
+            "ValideBrackets_20",
+            "ThreeSum_15"
         ]
     }
 
