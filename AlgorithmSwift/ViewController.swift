@@ -40,12 +40,13 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "RemoveElement_27",
             "ValideBrackets_20",
             "ThreeSum_15",
-            "IsPalindrome_9"
+            "IsPalindrome_9",
+            "LetterCombinations_17"
         ]
     }
 
     private func _initTableView() {
-        let tableView = UITableView.init(frame: CGRect.init(x: 0, y: 0, width: width, height: height - 88 - 32), style: .plain)
+        let tableView = UITableView.init(frame: CGRect.init(x: 0, y: 0, width: width, height: height), style: .plain)
         view.addSubview(tableView)
         tableView.delegate = self
         tableView.dataSource = self
