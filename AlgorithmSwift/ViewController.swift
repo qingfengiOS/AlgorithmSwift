@@ -41,7 +41,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "ValideBrackets_20",
             "ThreeSum_15",
             "IsPalindrome_9",
-            "LetterCombinations_17"
+            "LetterCombinations_17",
+            "MergeTwoLists_21"
         ]
     }
 
