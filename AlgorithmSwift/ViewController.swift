@@ -42,7 +42,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "ThreeSum_15",
             "IsPalindrome_9",
             "LetterCombinations_17",
-            "MergeTwoLists_21"
+            "MergeTwoLists_21",
+            "FindCircleNum_547"
         ]
     }
 

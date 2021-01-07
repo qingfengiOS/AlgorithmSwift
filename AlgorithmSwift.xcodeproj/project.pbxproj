@@ -24,6 +24,7 @@
 		8180573724E27C7F00FFD979 /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8180573624E27C7F00FFD979 /* QuickSort.swift */; };
 		8180573924E294A000FFD979 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8180573824E294A000FFD979 /* BinarySearch.swift */; };
 		8199ABF02599D757007582ED /* MergeTwoLists_21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8199ABEF2599D757007582ED /* MergeTwoLists_21.swift */; };
+		819C13CD25A71F89006C83E1 /* FindCircleNum_547.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819C13CC25A71F89006C83E1 /* FindCircleNum_547.swift */; };
 		81DC83A52520780C00EE0CBF /* Intersect_350.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81DC83A42520780C00EE0CBF /* Intersect_350.swift */; };
 		81DC83A72520789700EE0CBF /* ToSum_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81DC83A62520789700EE0CBF /* ToSum_1.swift */; };
 		81DC83A92520799000EE0CBF /* LongestCommonPrefix_14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81DC83A82520799000EE0CBF /* LongestCommonPrefix_14.swift */; };
@@ -82,6 +83,7 @@
 		8180573624E27C7F00FFD979 /* QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
 		8180573824E294A000FFD979 /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
 		8199ABEF2599D757007582ED /* MergeTwoLists_21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoLists_21.swift; sourceTree = "<group>"; };
+		819C13CC25A71F89006C83E1 /* FindCircleNum_547.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCircleNum_547.swift; sourceTree = "<group>"; };
 		81DC83A42520780C00EE0CBF /* Intersect_350.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intersect_350.swift; sourceTree = "<group>"; };
 		81DC83A62520789700EE0CBF /* ToSum_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToSum_1.swift; sourceTree = "<group>"; };
 		81DC83A82520799000EE0CBF /* LongestCommonPrefix_14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix_14.swift; sourceTree = "<group>"; };
@@ -204,6 +206,7 @@
 				81F92B422588EA49007736DD /* IsPalindrome_9.swift */,
 				8177C5BE2591D81300142C87 /* LetterCombinations_17.swift */,
 				8199ABEF2599D757007582ED /* MergeTwoLists_21.swift */,
+				819C13CC25A71F89006C83E1 /* FindCircleNum_547.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -355,6 +358,7 @@
 				FDA65E2E2566B41D00644E95 /* LengthOfLongestSubstring_03.swift in Sources */,
 				8180573724E27C7F00FFD979 /* QuickSort.swift in Sources */,
 				81DC83A52520780C00EE0CBF /* Intersect_350.swift in Sources */,
+				819C13CD25A71F89006C83E1 /* FindCircleNum_547.swift in Sources */,
 				810FF14D24DAC13100E76872 /* AppDelegate.swift in Sources */,
 				81DC83A72520789700EE0CBF /* ToSum_1.swift in Sources */,
 				810FF18024DAC9C600E76872 /* BubbleSort.swift in Sources */,
