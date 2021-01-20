@@ -43,7 +43,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             "IsPalindrome_9",
             "LetterCombinations_17",
             "MergeTwoLists_21",
-            "FindCircleNum_547"
+            "FindCircleNum_547",
+            "Simulation"
         ]
     }
 
